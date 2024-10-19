@@ -1,0 +1,115 @@
+# Mari
+Project website
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body{background-color:beige;}
+        h2{color:blue;}
+        </style>
+    </head>
+    <body>
+       
+        <h1>Mariana's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+                    <li>  <a href="#recipe1">Ingredients</a><a href="#steps1">Recipe 1</a></li>
+        
+            <li><a href="#recipe2">Ingredients</a><a href="#steps2">Recipe2</a></li>
+            
+                        <li> <a href="#recipe3">Ingredients</a><a href="#steps3">Recipe 3</a></li>
+                        
+
+        </ol>
+        
+        <h2 id="toast">Avocado toast #1</h2><ul>
+            <li>Time 1 : 5-7 min</li>
+            <li>Serves 1 : 1</li></ul>
+        <h2 id="eggs">Scrambled Eggs #2</h2><li>Time 2: 6-8 min</li>
+        <ul>
+            <li>Serves 2: 1</li></ul>
+        <h2 id="pasta">Pasta with Garlic and Olive Oil #2</h2>
+        <ul>
+            
+        <li>Time 3: 12-15 min</li>
+            <li>Serves 3: 2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td id="recipe1">1 ripe avocado,2 slices of bread,Salt and pepper</td>   
+                 <td>2</td>
+                   </tr> 
+                   <tr>
+            <td id="recipe2"> large eggs
+1 tablespoon butter,salt,black pepper</td>   
+                 <td>2</td>
+                 
+                   </tr> 
+                   <tr>
+            <td id="recipe3">spaghetti or other pasta,garlic cloves,olive oil,salt, black pepper</td>   
+                 <td>2</td>
+                 
+                   </tr> 
+            </tbody>
+        </table>
+        <p id="steps1">1st Recipe</p>
+        <p><strong>Step 1:</strong> Toast the bread in a toaster or oven for 3-4 minutes, until golden brown.
+</p>
+
+             <p><strong>Step 2:</strong> Cut the avocado in half, remove the pit, and scoop the flesh into a small bowl.
+</p> 
+<p><strong>Step 3:</strong>Spread the mashed avocado evenly over the toasted bread slices.
+</p>
+<p><strong>Step 4:</strong>Serve immediately and enjoy.</p>
+
+<p id="steps2">2nd Recipe</p>
+
+<p><strong>Step 1:</strong>Crack the eggs into a bowl, add the salt and pepper, and whisk them together until smooth. 
+</p>
+
+             <p><strong>Step 2:</strong> 
+             Heat 1 tablespoon of butter in a non-stick pan over medium heat and Pour the eggs into the pan and let them sit undisturbed for a few seconds.
+
+</p> 
+<p><strong>Step 3:</strong>Add the thinly sliced garlic to the oil and sauté for 2-3 minutes until the garlic turns golden brown
+
+</p>
+
+<p><strong>Step 4:</strong> Continue stirring for another 1-2 minutes, until the eggs are fully cooked but still soft. 
+ </p>
+ 
+ <p><strong>Step 5:</strong>Remove from heat and serve immediately.
+ 
+ <p id="steps3">3rd Recipe</p>
+ <p><strong>Step 1:</strong> Crack the eggs into a bowl, add the salt and pepper, and whisk them together until smooth
+</p>
+
+             <p><strong>Step 2:</strong> Add the thinly sliced garlic to the oil and sauté for 2-3 minutes until the garlic turns golden brown
+</p> 
+<p><strong>Step 3:</strong>Once the pasta is cooked, drain it and immediately toss it in the pan with the garlic and olive oil.</p>
+
+<p><strong>Step 4:</strong> Season with salt, pepper, and optional red pepper flakes.
+ </p>
+ 
+
+
+    <p><em>Source: <a href="https://www.loveandlemons.com/scrambled-eggs-recipe/">Some recipes websites</a></em></p>
+    
+  <p><em>Source: <a href="https://www.clarin.com/recetas/entradas/avocado-toast_7_yNA5WK4JA.html?srsltid=AfmBOopihKwXdd3zmD_StEpSZ6jb9V9IUvkM9XRz1JVE603TmmYD8JB4">Some recipes websites</a></em></p>  
+
+     <p><em>Source: <a href="https://www.foodnetwork.com/recipes/food-network-kitchen/spaghetti-with-oil-and-garlic-aglio-et-olio-recipe-1944538">Some recipes websites</a></em></p> 
+    
+    
+    </body>
+</html>
